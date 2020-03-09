@@ -81,3 +81,12 @@ a {
 .navbar-nav li a:hover {
     color: #2e72a1 !important;
 }
+
+#text-decoration{
+   max-width:225px;
+   max-height:25px;
+}
+#text-decoration-important{
+   max-width:275px;
+   max-height:75px;
+}
